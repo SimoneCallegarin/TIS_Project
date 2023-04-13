@@ -1,8 +1,10 @@
  # Technologies for Information Systems project on  Data Ethics
  
- Use Aequitas toolkit to measure fairness in healthcare-related datasets.
+ ## Use Aequitas toolkit to measure fairness in healthcare-related datasets.
  
- ### Link to the notebook: [ColabNotebook](https://colab.research.google.com/github/SimoneCallegarin/TIS_project/blob/main/TIS%20aequitas.ipynb)
+ 
+ 
+ ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimoneCallegarin/TIS_project/blob/main/TIS%20aequitas.ipynb) the Python notebook of the project
  
  ---
  
