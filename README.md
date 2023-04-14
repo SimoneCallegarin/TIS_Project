@@ -10,7 +10,16 @@
  
  ---
  
- ###  932343 / 232592 ->  Simone Callegarin([@SimoneCallegarin](https://github.com/SimoneCallegarin))<br>simone.callegarin@mail.polimi.it
+ #### DataframeFormatting Package
+ 
+ A package I developed in order to simplify the comprehension of dataframes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SimoneCallegarin/TIS_project/blob/main/DataframeFormatting/DataFormatting.ipynb)
+ 
+ Here's the repository of the [package](https://github.com/SimoneCallegarin/DataframeFormatting) for further details.
+ 
+ ---
+ 
+ ###  Author
+ - Simone Callegarin ([@SimoneCallegarin](https://github.com/SimoneCallegarin)) 932343 / 232592 $\longrightarrow$ simone.callegarin@mail.polimi.it 
  
  ### Reference professors:
  - Letizia Tanca 
