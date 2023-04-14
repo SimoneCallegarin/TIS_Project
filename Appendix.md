@@ -1,4 +1,9 @@
-# **Group Measures**
+# Appendix 
+Summarizes concepts from the notebook.
+
+---
+
+## **Group Measures**
 
 | Count Type | Column Name |
 | --- | --- |
@@ -13,7 +18,9 @@
 | Group Size | 'group_size'|
 | Total Entities | 'total_entities' |
 
-# **Absolute Metrics**
+---
+
+## **Absolute Metrics**
 
 | Metric | Column Name |
 | --- | --- |
@@ -29,20 +36,21 @@
 | Predicted Positive Ratio$_g$ | 'pprev' |
 | Group Prevalence | 'prev' |
 
-## **False Negative Rate**
+### **False Negative Rate**
 
 The fraction of false negatives of a group within the labeled positives of the group:
 
 $$FNR_g = \frac{FN_g}{LP_g} = Pr(\hat{Y}=0—Y=1,A=a_i)$$
 
-## **Equality of Opportunity** (i.e. True Positive rate Parity)
+### **Equality of Opportunity** (i.e. True Positive rate Parity)
 
 The protected and unprotected groups should have equal true positive rates (i.e. same rate of positive outcome, assuming the people in the groups qualify for the outcome):
 
 $$TPR_g = \frac{TP_g}{LP_g} = Pr(\hat{Y}=1—Y=1,A=a_i)$$
 
+---
 
-# **Disparities**
+## **Disparities**
 
 | Metric | Column Name |
 | --- | --- |
@@ -57,7 +65,9 @@ $$TPR_g = \frac{TP_g}{LP_g} = Pr(\hat{Y}=1—Y=1,A=a_i)$$
 | Predicted Positive Ratio$_k$ Disparity | 'ppr_disparity' |
 | Predicted Positive Ratio$_g$ Disparity | 'pprev_disparity' |
 
-# **Parities**
+---
+
+## **Parities**
 
 | Parity | Column Name |
 | --- | --- |
@@ -83,7 +93,7 @@ $$TPR_g = \frac{TP_g}{LP_g} = Pr(\hat{Y}=1—Y=1,A=a_i)$$
 
 ---
 
-# **Disparity Tolerance**
+## **Disparity Tolerance**
 
 $$ \tau ≤ DisparityMeasure_{group_i} ≤ \frac{1}{\tau} $$
 
