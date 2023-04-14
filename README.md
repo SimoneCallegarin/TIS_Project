@@ -6,6 +6,8 @@
  
  ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimoneCallegarin/TIS_project/blob/main/TIS%20aequitas.ipynb) the Python notebook of the project
  
+ Link to a brief [appendix](https://github.com/SimoneCallegarin/TIS_project/blob/main/Appendix.md) that summarizes concepts of the audit in the notebook.
+ 
  ---
  
  ###  932343 / 232592 ->  Simone Callegarin([@SimoneCallegarin](https://github.com/SimoneCallegarin))<br>simone.callegarin@mail.polimi.it
