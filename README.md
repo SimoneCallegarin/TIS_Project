@@ -2,7 +2,7 @@
  
  ## Use Aequitas toolkit to measure fairness in healthcare-related datasets.
  
- 
+ [Report](https://github.com/SimoneCallegarin/TIS_project/blob/main/Report.pdf) of the project about all the tools involved.
  
  ### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimoneCallegarin/TIS_project/blob/main/TIS%20aequitas.ipynb) the Python notebook of the project
  
